@@ -13,7 +13,7 @@ The database consists of the following tables:
 ### users: Stores the user signup dates.
 ### sales: Stores the sales data, including user ID, sale date, and product ID.
 ### product: Stores the product information, including product ID, product name, and price.
-##Queries
+## Queries
 The repository includes a variety of SQL queries that demonstrate different data analysis techniques. These queries are organized into sections:
 Basic queries: Selecting all data from tables.
 Data analysis: Calculating total amount spent by customers, number of days visited, first purchased product, most purchased item, and more.
